@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 public class Zmienne {
     public static void main(String[] args) {
 
@@ -36,7 +38,16 @@ public class Zmienne {
 
         boolean slonce = false; //true
 
-        //https://github.com/przemjan/trzeciaCgr12022
+        //    https://github.com/przemjan/trzeciaCgr12022
+
+        // windows r
+        // \\ubuckp
+        // public/janisz
+        // uporządkujponiższ....pdf
+
+        HashMap<String,String> myMap = new HashMap<>();
+
+
 
 
     }
