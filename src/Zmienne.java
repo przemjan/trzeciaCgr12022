@@ -36,6 +36,8 @@ public class Zmienne {
 
         boolean slonce = false; //true
 
+        //https://github.com/przemjan/trzeciaCgr12022
+
 
     }
 }
