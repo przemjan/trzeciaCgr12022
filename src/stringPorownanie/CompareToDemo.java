@@ -17,5 +17,7 @@ public class CompareToDemo {
         }
 
 
+
+        //komentarz
     }
 }
