@@ -1,3 +1,5 @@
+package podstawy;
+
 import java.util.HashMap;
 
 public class Zmienne {
